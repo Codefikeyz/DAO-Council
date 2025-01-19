@@ -9,7 +9,7 @@
 
 **Other Assets**
 
-- [SAFE](https://pioneerapp.xyz/#/proposals/preview/497) (Ethereum mainnet):  ### USDT
+- [SAFE](https://pioneerapp.xyz/#/proposals/preview/497) (Ethereum mainnet):  4,453 USDT
 - [ETHAdmin](https://pioneerapp.xyz/#/proposals/preview/961) (BASE): Uniswap Liquidity NFTs ****~$###K USDC
 
 **Inflation**
