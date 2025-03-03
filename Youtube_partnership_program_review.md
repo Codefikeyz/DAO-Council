@@ -152,4 +152,4 @@ Offer a **one-time Silver Upgrade Bonus** (e.g., 1000 JOY) to motivate creators 
 - Encourages creators to work towards higher tiers.
 - Keeps Joystream’s content quality high and sustainable.
 
-NOTE: The recommendations and suggestions made above can further be improved for a more cost effective approach and maximum output.
+**NOTE:** The recommendations and suggestions made above can further be improved for a more cost effective approach and maximum output. The product manager stands to improve the already suggested initiatives, especially regarding transition metrics, rewards and overall evaluation criterias.
