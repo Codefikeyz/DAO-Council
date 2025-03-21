@@ -36,33 +36,42 @@ Election results: https://pioneerapp.xyz/#/election/past-elections/00000017
 
 *🔴 No work was done or not achieved*
 
-**Operational Tasks**
-
-- More support to the newly hired MWG lead
-- Process regular proposals & hiring
-- Maintain council/working groups communication
-- Ensure and facilitate USDT server compensation for CDN workers and MWG lead
-- Handle routine governance matters
-- Treasury - find ways to replenish USDT treasury
-
-**Gleev and YPP improvements**
-
-- Homepage video featuring
-- Review YPP rewards/spending
-- Continue executing the weekly YPP payments
-
-**CDN Optimization**
-
-- Work with the infrastructure lead on optimizing the content delivery costs
-
-**Lead Hiring**
-
-- Hire APPS Lead
-
-**BASE ecosystem**
-
-- Pass the proposal and officially replace inactive signers
-- Pass the proposal and launch **On-Chain Trading Framework on BASE V1 -** https://pioneerapp.xyz/#/forum/thread/1008
+- **Operational Tasks**
+    
+    *🟢* More support to the newly hired MWG lead
+    
+    *🟢* Process regular proposals & hiring
+    
+    *🟢* Maintain council/working groups communication
+    
+    *🟢* Ensure and facilitate USDT server compensation for CDN workers and MWG lead
+    
+    *🟢* Handle routine governance matters
+    
+    *🔴* Treasury - find ways to replenish USDT treasury
+    
+- **Gleev and YPP improvements**
+    
+    *🟢* Homepage video featuring
+    
+    *🟢* Review YPP rewards/spending
+    
+    *🟢* Continue executing the weekly YPP payments
+    
+- **CDN Optimization**
+    
+    *🟢* Work with the infrastructure lead on optimizing the content delivery costs
+    
+- **Lead Hiring**
+    
+    *🔴* Hire APPS Lead
+    
+- **BASE ecosystem**
+    
+    *🔴* Pass the proposal and officially replace inactive signers
+    
+    *🔴* Pass the proposal and launch **On-Chain Trading Framework on BASE V1 -** https://pioneerapp.xyz/#/forum/thread/1008
+    
 
 ## **5. WGs’ Status**
 
@@ -74,39 +83,54 @@ Election results: https://pioneerapp.xyz/#/election/past-elections/00000017
 
 *🔴 No work was done or not achieved*
 
-### **Infra WG**
-
-- Work with BWGL with the reduction of storage replication rate to 2
-- Work on cost optimization
-- Maintain storage operations and improve efficiency
-- Monitor servers
-
-### **Builders WG**
-
-- **Joystream SDK**
-    - Request permissions and initialize SDK project on Github (deadline: 21.02.2025)
-    - Core modules implementation
-- **Orion / Gleev**
-    - Improving data migration (export / import) setup (**deadline:** 18.02.2025)
-    - Improving video relevance calculation (and data visibility) (**deadline:** 19.02.2025)
-    - Tips feature final touches: https://github.com/Joystream/atlas/issues/6500
-- **Storage**
-    - Assist  with the reduction of storage replication rate to 2 (**deadline:** 24.02.2025)
-        
-        ***@freakstatic***
-        
-
-### **Marketing WG**
-
-- Marketing Plan
-- Content calendar
-- SMM posting and management
-- Implementing the actionable steps following the SMM audit
-
-### **Content WG**
-
-- YPP verification, support and reporting
-- Content curation for manually uploaded content
+- **Infra WG**
+    
+    *🟢* Work with BWGL with the reduction of storage replication rate to 2
+    
+    *🟡* Work on cost optimization
+    
+    *🟢* Maintain storage operations and improve efficiency
+    
+    *🟢* Monitor servers
+    
+- **Builders WG**
+    - **Builders WG**
+        - **Joystream SDK**
+            
+            *🟢* Request permissions and initialize SDK project on Github
+            
+            *🟡* Core modules implementation
+            
+        - **Orion / Gleev**
+            - Create GH issues related to:
+                
+                *🟡* Improving data migration (export / import) setup (partially covered by https://github.com/Joystream/orion/issues/360)
+                
+                *🟡* Improving video relevance calculation (and data visibility) (partially covered by https://github.com/Joystream/orion/issues/361)
+                
+                *🔴* Tips feature final touches: https://github.com/Joystream/atlas/issues/6500
+                
+        - **Storage**
+            
+            *🟡* Assist  with the reduction of storage replication rate to 2:
+            - `leader:copy-bags`, `leader:empty-bucket` commands were added to facilitate the process ([#5203](https://github.com/Joystream/joystream/pull/5203)). Instructions were provided to @freakstatic on Discord: [LINK](https://discord.com/channels/811216481340751934/1346895927079731304/1347245088849526945)
+            
+- **Marketing WG**
+    
+    *🟡* Marketing Plan
+    
+    *🟢* Content calendar
+    
+    *🟢* SMM posting and management
+    
+    *🟢* Implementing the actionable steps following the SMM audit
+    
+- **Content WG**
+    
+    *🟢* YPP verification, support and reporting
+    
+    *🟢* Content curation for manually uploaded content
+    
 
 ## 6. Budget
 
