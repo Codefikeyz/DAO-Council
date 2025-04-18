@@ -89,18 +89,18 @@ Election results: https://pioneerapp.xyz/#/election/past-elections/00000018
 
 - **Infra WG**
     
-    **🟢 Replication & Object Management:**
+    **🟢 Replication & Object Management**
     
     - Maintained replication rate ≥ 2 for all objects.
     - Kept unaccepted object rate < 1%.
     - Ensured 0% lost objects.
     
-    **🟢 System Availability: M**aintained 100% storage system uptime.
-    
+    **🟢 System Availability**
+    - Maintained 100% storage system uptime.
     - Archive node script sync to S3 100% completed.
     - Server Transition: Migrated @mx1916's server due to departure. and successfully set up a new server to receive files from the old one.
     
-    **🟢 Improve Efficiency**
+    **🟡 Improve Efficiency**
     
     - Worker Upgrade: Updated Colossus version on 2 out of 4 workers to include cleanup fixes.
     
