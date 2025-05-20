@@ -24,6 +24,7 @@ Election results: https://pioneerapp.xyz/#/election/past-elections/0000001b
 - Maintain council/working groups communication
 - Ensure server compensation for Infra workers
 - Handle routine governance matters
+- Fund Tweetscout API payment
 
 **Gleev and YPP improvements**
 
